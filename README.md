@@ -2,7 +2,7 @@
 just import this in your project, then reference colors like this
 
 
-@import "material--design-colors";
+@import "material-design-colors";
 
 $body-background-color: $red500;
 
